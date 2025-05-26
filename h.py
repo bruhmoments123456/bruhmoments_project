@@ -6,9 +6,9 @@ st.image(image,caption="Combat Gods 2")
 # st.audio(sound,format="audio/mp3")
 st.title("Video")
 video="https://www.youtube.com/watch?v=Xg1XSvszGRU&t=41s"
-st.title("emote")
 video222="https://www.youtube.com/watch?v=sxWGwpl6A1k"
 st.video(video,format="video/mp4")
+st.title("emote")
 st.video(video222,format="video/mp4")
 video2="https://www.youtube.com/watch?v=LwTu7u--vs4"
 st.video(video,format="video/mp4")
