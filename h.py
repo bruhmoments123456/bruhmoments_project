@@ -10,7 +10,6 @@ video222="https://www.youtube.com/watch?v=sxWGwpl6A1k"
 st.video(video,format="video/mp4")
 st.title("emote")
 st.video(video222,format="video/mp4")
-video2="https://www.youtube.com/watch?v=LwTu7u--vs4"
 st.video(video,format="video/mp4")
 st.video(video2,format="video/mp4")
 st.title('chill music after watch (chill guy music)')
