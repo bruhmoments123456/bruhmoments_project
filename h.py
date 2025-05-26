@@ -9,7 +9,6 @@ video="https://www.youtube.com/watch?v=Xg1XSvszGRU&t=41s"
 video222="https://www.youtube.com/watch?v=sxWGwpl6A1k"
 video333="https://www.youtube.com/watch?v=pTGlCqBqv3Q"
 st.video(video,format="video/mp4")
-st.video(video222,format="video/mp4")
 st.video(video333,format="video/mp4")
 st.title("emote")
 video2="https://www.youtube.com/watch?v=sxWGwpl6A1k"
