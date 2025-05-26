@@ -15,7 +15,7 @@ st.video(video1,format='video/mp.4')
 st.title('Final battle music')
 video22="https://www.youtube.com/watch?v=XTywMOGKh0U"
 st.video(video22,format='video/mp.4')
-col1, col2, col3, col4, col5 = st.columns(5)
+# col1, col2, col3, col4, col5 = st.columns(5)
 # with col1:
 #     b1 = st.button('Bài hát của Đen Vâu')
 # with col2:
